@@ -43,6 +43,6 @@ Color-Changer/
 - Practicing frontend development fundamentals
 
 
-[View Color Changer](YOUR_LIVE_DEMO_URL)
+[View Color Changer](https://minshida-latheef.github.io/color-changer/)
 
 
