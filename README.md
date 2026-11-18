@@ -34,15 +34,6 @@ Color-Changer/
 └── README.md
 ```
 
-## 🎯 Learning Objectives
-
-- Understanding JavaScript DOM manipulation
-- Working with event listeners
-- Changing CSS properties using JavaScript
-- Handling user interactions
-- Practicing frontend development fundamentals
-
-
 [View Color Changer](https://minshida-latheef.github.io/color-changer/)
 
 
